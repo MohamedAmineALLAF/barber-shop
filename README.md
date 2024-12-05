@@ -11,3 +11,11 @@ A simple barbershop appointment booking system built as a technical test. The sy
 - shadcn/ui 
 - PostgreSQL with Neon
 - Vercel for deployments
+
+## Features
+- Online appointment booking
+- Responsive design
+- Form validation
+
+## Database Records
+![Database Records](screenshots/db_records.jpg)
