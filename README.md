@@ -18,5 +18,4 @@ A simple barbershop appointment booking system built as a technical test. The sy
 - Form validation
 
 ## Database Records
-![Database Records](screenshots/db_records.jpg)
-![Database Records](screenshots/db_records.jpg)
+
