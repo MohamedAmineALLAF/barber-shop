@@ -3,7 +3,7 @@
 A simple barbershop appointment booking system built as a technical test. The system allows customers to schedule appointments and manage bookings.
 
 ## Live Demo
-[Visit Live Site](https://cjn96zixgrnlqoedhng6b65ahvg2jzcu.vercel.app/)
+[Visit Live Site](https://dobde854num9b6rg4s7zi3eihg6kukjv.vercel.app/)
 
 ## Tech Stack
 - Next.js
